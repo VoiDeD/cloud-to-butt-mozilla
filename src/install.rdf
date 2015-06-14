@@ -3,15 +3,16 @@
   <RDF:Description about="urn:mozilla:install-manifest">
 
     <!-- GUID and type -->
-    <em:id>cloud-to-butt@github.com</em:id>
+    <em:id>cloud-to-butt@stecker.email</em:id>
     <em:type>2</em:type>
 
     <!-- Extension details -->
-    <em:name>Cloud To Butt</em:name>
-    <em:description>Replaces the text 'the cloud' with 'my butt'.</em:description>
+    <em:name>Cloud To Butt (e10s)</em:name>
+    <em:description>Replaces the text 'the cloud' with 'my butt' without killing e10s performance.</em:description>
     <em:creator>Steven Frank</em:creator>
     <em:developer>Chris Wright</em:developer>
-    <em:homepageURL>https://github.com/DaveRandom/cloud-to-butt-mozilla</em:homepageURL>
+    <em:developer>Ryan Stecker</em:developer>
+    <em:homepageURL>https://github.com/VoiDeD/cloud-to-butt-mozilla</em:homepageURL>
 
     <!-- Current version -->
     <em:version>1.0</em:version>
