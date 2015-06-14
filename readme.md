@@ -2,6 +2,8 @@
 
 Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
+This fork supports [e10s](https://wiki.mozilla.org/Electrolysis) and should be more performant when enabled.
+
 
 ## Installing
 
